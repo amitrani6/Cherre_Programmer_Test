@@ -1,7 +1,7 @@
 # Cherre_Programmer_Test
-A sample SQLite query challenge to test SQL and Python skills.
+### A sample SQLite query challenge to test SQL and Python skills.
 
-# Repository Contents
+## Repository Contents
 The following 7 files and 2 folders are in this repository:
 
 1. `ProgrammerTest/` - A folder containing the original database file **testdb.db** and instructions file **instructions.md**
