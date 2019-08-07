@@ -44,3 +44,5 @@ The **environment.yml** and **requirements.txt** files are included to ensure th
       Command 2: `conda activate Cherre_Programmer_Test`
           
 3. Run the **sql_execution_frequent_users.py** file by typing `python sql_execution_frequent_users.py`
+4. Go back to the base environment by typing `conda deactivate`
+5. (Optional) Delete the environment by typing `conda remove --name Cherre_Programmer_Test --all`
