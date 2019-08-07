@@ -27,7 +27,7 @@ The instructions are as follows:
     -I use Anaconda and Pip, the instructions are in the following section
 3. In command prompt/terminal enter the environment you replicated in Step 2 and run **sql_execution_frequent_users.py**
 
-# Creating The Environment/Install The Necessary Packages
+# Creating The Environment/Installing The Necessary Packages
 The **environment.yml** and **requirements.txt** files are included to ensure that the SQL code will run on this downloaded repository consistently regardless of your system.
 
 ## Utilizing requirements.txt Without Creating An Environment:
