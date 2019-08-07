@@ -38,10 +38,9 @@ The **environment.yml** and **requirements.txt** files are included to ensure th
 ## Utilizing environment.yml To Create An Environment With Conda:
 1. Navigate to the downloaded repository in command prompt/terminal
 2. Enter the following commands:
+
           Command 1: ` conda env create -f environment.yml`
           
           Command 2: `conda activate Cherre_Programmer_Test`
           
 3. Run the **sql_execution_frequent_users.py** file by typing `python sql_execution_frequent_users.py`
-          
-          Conda env create –f environment.yml
