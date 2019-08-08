@@ -28,3 +28,7 @@ print('\nTable: frequent_browsers\n')
 print(create_pandas_table('''SELECT * from frequent_browsers;'''))
 
 print("\n")
+
+# This block of code closes the cursor and connection
+cursor.close()
+connection.close()
